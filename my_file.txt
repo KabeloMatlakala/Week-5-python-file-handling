@@ -1,0 +1,6 @@
+This is the first line.
+This is the second line, containing a number: 123.
+This is the third line.
+This is an appended line.
+Here’s another line with a number: 456.
+Final appended line.
